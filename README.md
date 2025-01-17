@@ -15,32 +15,43 @@ I'm a final-year **Networks and Telecommunications Engineering** student at **IN
 ### 🔧 Skills
 
 #### **AI & Data Science**
-- **Machine Learning**: Regression, Classification, Clustering, Reinforcement Learning
-- **Deep Learning**: Neural Networks, CNNs, RNNs, Transformers, GANs
-- **Computer Vision**: Object Detection, Image Segmentation, OpenCV, YOLO
-- **Natural Language Processing (NLP)**: Sentiment Analysis, Text Generation, BERT, Hugging Face
-- **MLOps**: Model Deployment, CI/CD Pipelines, BentoML, MLflow, FastAPI
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 #### **DevOps & Cloud**
-- **DevOps Tools**: Docker, Kubernetes, Jenkins, Terraform, Ansible, Prometheus, Grafana
-- **Cloud Platforms**: Azure, AWS, Google Cloud
-- **CI/CD Pipelines**: Jenkins, GitHub Actions, GitLab CI/CD
-- **Monitoring & Logging**: Prometheus, Grafana, ELK Stack
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 #### **Web Development**
-- **Frontend**: Angular, React, HTML/CSS, JavaScript, TypeScript
-- **Backend**: Django, Spring Boot, NestJS, Node.js, FastAPI, Flask
-- **Full-Stack Development**: Integrated solutions with AI/ML capabilities
-- **APIs**: RESTful APIs, GraphQL
-
-#### **Programming Languages**
-- Python, Java, C++, JavaScript, SQL, YAML, Bash
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 #### **Databases**
-- MySQL, PostgreSQL, MongoDB, Firebase
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 #### **Other Tools**
-- Git, Tableau, Power BI, Hadoop, Spark, OpenCV, TensorFlow, PyTorch, Scikit-learn
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 
 ---
 
