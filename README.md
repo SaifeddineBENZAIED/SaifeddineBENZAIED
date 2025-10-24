@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="mailto:saif2001benz2036@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/saifeddine-benzaied">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/saifeddinebenzaied">LinkedIn</a> •
   <a href="https://github.com/SaifeddineBENZAIED">GitHub</a>
 </p>
 
@@ -194,7 +194,7 @@ Roles I'm open to:
 
 ## 📫 Let’s Connect
 
-- 🔗 **LinkedIn:** [saifeddine-benzaied](https://www.linkedin.com/in/saifeddine-benzaied)
+- 🔗 **LinkedIn:** [saifeddine-benzaied](https://www.linkedin.com/in/saifeddinebenzaied)
 - 🐙 **GitHub:** [SaifeddineBenzaied](https://github.com/SaifeddineBenzaied)
 - 📧 **Email:** [saif2001benz2036@gmail.com](mailto:saif2001benz2036@gmail.com)
 
