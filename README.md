@@ -144,7 +144,7 @@ I’m currently seeking **AI/ML Engineer, MLOps, or DevOps** roles in innovative
 
 ## 📫 Contact
 📧 saif2001benz2036@gmail.com  
-🔗 linkedin.com/in/saifeddine-benzaied  
+🔗 [linkedin.com/in/saifeddine-benzaied](https://www.linkedin.com/in/saifeddine-benzaied)  
 
 ---
 
