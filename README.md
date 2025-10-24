@@ -212,8 +212,8 @@ _INSAT, 2020–2022_
 
 ---
 
-## 🤝 What I’m Looking For <br>
-I want to join companies where I can:
+## 🤝 What I’m Looking For
+I want to join companies where I can: <br>
 ✅ automate real processes  
 ✅ deploy intelligent systems  
 ✅ scale ML services in production  
