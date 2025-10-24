@@ -10,7 +10,7 @@
 
 ---
 
-Hi 👋 I'm **Saif** — an engineering graduate from **INSAT** passionate about building **production-grade AI systems**, **autonomous agents**, and **intelligent cloud-native infrastructures**.
+Hi 👋 I'm **Saif** - an engineering graduate from **INSAT** passionate about building **production-grade AI systems**, **autonomous agents**, and **intelligent cloud-native infrastructures**.
 
 I love combining **AI + DevOps + Cloud + Automation** to solve real problems:
 - reducing manual processes,
@@ -155,6 +155,9 @@ Designed a complete **AI automation framework** around BoondManager workflows:
 **Engineering Degree — Computer Networks & Telecommunications**  
 _INSAT, 2022–2025_
 
+**Integrated Preparatory Cycle**
+_INSAT, 2020–2022_
+
 ---
 
 ## 📜 Certifications
@@ -185,14 +188,15 @@ Roles I'm open to:
 - **AI/MLOps Engineer**
 - **DevOps/Cloud Engineer**
 - **AI Automation Engineer**
-- **Software Engineer (Python)**
+- **Software Engineer**
 
 ---
 
 ## 📫 Let’s Connect
-🔗 LinkedIn: _saifeddine-benzaied_  
-🐙 GitHub: _SaifeddineBenzaied_  
-📧 Email: _saif2001benz2036@gmail.com_
+
+- 🔗 **LinkedIn:** [saifeddine-benzaied](https://www.linkedin.com/in/saifeddine-benzaied)
+- 🐙 **GitHub:** [SaifeddineBenzaied](https://github.com/SaifeddineBenzaied)
+- 📧 **Email:** [saif2001benz2036@gmail.com](mailto:saif2001benz2036@gmail.com)
 
 ---
 
