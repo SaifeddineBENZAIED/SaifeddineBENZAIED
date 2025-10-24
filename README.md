@@ -18,7 +18,7 @@ I love combining **AI + DevOps + Cloud + Automation** to solve real problems:
 - scaling infrastructure efficiently,
 - and delivering observable, traceable workflows.
 
-I build systems that are:
+I build systems that are: <br>
 ✅ scalable  
 ✅ monitored and observable  
 ✅ automated end-to-end  
