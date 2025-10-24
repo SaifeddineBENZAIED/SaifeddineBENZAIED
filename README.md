@@ -129,25 +129,60 @@ Designed a complete **AI automation framework** around BoondManager workflows:
 
 ---
 
-## 🧾 Featured Projects
+## 🔥 Featured Projects
 
-### 🟣 AI-Agent Automation with MCP
-- Autonomous business agents (ReAct/StateGraph)
-- Streamable JSON-RPC server
-- Correlated tracing with request IDs
+### 🧬 **Network Anomaly Detection (AI + MLOps)**
+**Python, BentoML, FastAPI, Angular, Prometheus, Grafana**
 
-### 🟢 End-to-End MLOps Pipeline
-- data ingestion → training → deployment → monitoring
-- drift detection, rollback, versioning
+- CNN-based anomaly detection model (high F1-score)
+- Automated training, validation, deployment, monitoring
+- Real-time dashboards & alerts
 
-### 🔵 Multi-Env Kubernetes Cluster
-- Helm Charts
-- Canary / blue-green deployments
-- HPA autoscaling
+👉 `PFA-Network-Anomaly-Detection-IA-MLOps`
 
-### 🟠 Real-Time Drowsiness Detection
-- Edge optimization (<50ms)
-- Computer vision alerts for driver safety
+---
+
+### 👄 **Lip Reading with Deep Learning**
+**TensorFlow, OpenCV, CTC Loss, Streamlit**
+
+- 3D-CNN + Bi-LSTM architecture
+- Converts lip movements to text
+- Accessible Streamlit interface
+
+👉 `lip-reading-deep-learning`
+
+---
+
+### 😴 **Real-Time Drowsiness Detection**
+**PyTorch, OpenCV, Computer Vision**
+
+- Real-time inference (<50ms latency)
+- Facial landmarks + eye aspect ratio
+- Audio alerts
+
+👉 `drowsiness-detection-cv-dl`
+
+---
+
+### 🏋️‍♂️ **Fitness Recommendation Web App**
+**Django, Angular, Python ML, Docker, CI/CD**
+
+- Personalized exercise & meal recommendations
+- Fully containerized & deployed via Jenkins + K8s
+- Monitoring with Prometheus–Grafana
+
+👉 `fitness-web-app-*`
+
+---
+
+### ☁️ **DevOps Cloud Pipeline**
+**Node.js, Docker, Kubernetes, Terraform, Prometheus**
+
+- CI/CD pipeline (build → test → deploy)
+- Azure provisioning (IaC)
+- Intelligent alerting
+
+👉 `web-app-devops-cloud-pipeline`
 
 ---
 
@@ -155,7 +190,7 @@ Designed a complete **AI automation framework** around BoondManager workflows:
 **Engineering Degree — Computer Networks & Telecommunications**  
 _INSAT, 2022–2025_
 
-**Integrated Preparatory Cycle**
+**Integrated Preparatory Cycle** <br>
 _INSAT, 2020–2022_
 
 ---
@@ -177,7 +212,7 @@ _INSAT, 2020–2022_
 
 ---
 
-## 🤝 What I’m Looking For
+## 🤝 What I’m Looking For <br>
 I want to join companies where I can:
 ✅ automate real processes  
 ✅ deploy intelligent systems  
@@ -200,7 +235,7 @@ Roles I'm open to:
 
 ---
 
-## ✅ Bonus: GitHub Widgets
+## 📈 GitHub Widgets
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaifeddineBenzaied&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaifeddineBenzaied&layout=compact&theme=tokyonight)
 
